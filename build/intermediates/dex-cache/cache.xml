@@ -6,35 +6,35 @@
         jumboMode="false"
         revision="23.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4f07da58f8bfe35eee5306d294799131e278d0fc.jar" />
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4f07da58f8bfe35eee5306d294799131e278d0fc.jar" />
     </item>
     <item
-        jar="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/pre-dexed/debug/classes-637f5eec6970e32d6bbdeb6d13ebc46215e9612f.jar" />
-    </item>
-    <item
-        jar="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-cc82302cc6e1b86d01c2ddb2b391b79aa9452814.jar" />
-    </item>
-    <item
-        jar="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
-        <dex dex="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/pre-dexed/debug/classes-67ab83c85d6e3730050f3dad454e9eaa7b38497a.jar" />
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-f431140b0d2d429adbd6abde39bc590afe5f5145.jar" />
     </item>
     <item
-        jar="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/ibrahim/Downloads/myo-android-sdk-0.10.0/myoSport/app/build/intermediates/pre-dexed/debug/classes-108da5b1495fe0253aa5bb57e440eaf6c9d76683.jar" />
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-11be3daae99329f7eba657e6b479cc3913a865cf.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-18011be51dce05d6596401319b31c9690988ff0a.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e561bb587702a93e50d4c1eef54b13d55e56ac1b.jar" />
     </item>
 
 </items>
