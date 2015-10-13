@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="/Users/ibrahim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4f07da58f8bfe35eee5306d294799131e278d0fc.jar" />
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.4.0-802b974e8d8417877d68eafb60301dab272b0fb4.jar" />
     </item>
     <item
-        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.jjoe64/graphview/4.0.1/jars/classes.jar"
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
-        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-f431140b0d2d429adbd6abde39bc590afe5f5145.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e561bb587702a93e50d4c1eef54b13d55e56ac1b.jar" />
     </item>
     <item
-        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-11be3daae99329f7eba657e6b479cc3913a865cf.jar" />
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-d757bf55c8a6a22141653fde468e0b06eac624c3.jar" />
     </item>
     <item
         jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
@@ -30,11 +30,67 @@
         <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-18011be51dce05d6596401319b31c9690988ff0a.jar" />
     </item>
     <item
-        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-e561bb587702a93e50d4c1eef54b13d55e56ac1b.jar" />
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.4.0-7e5f5f1ed7ecd406012154f2e3e0a0de0d11b9c6.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4f07da58f8bfe35eee5306d294799131e278d0fc.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.0.0/3a10b25b6820e19102e118711afe6a66c0bae123/butterknife-6.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a10b25b6820e19102e118711afe6a66c0bae123">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/butterknife-6.0.0-283982a0ec106fdb8a171946b777e4267b640e8f.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/org.quanqi/mpandroidchart/1.7.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5200bc948e1af3d3d66a0e06837edb2bf447f6a5">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-2f6c70c6861b68541d01e9efeeb17fe67aa12836.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-47d6f61229d252e439422cfeedcd99ca4a64116c.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-33b52521e4fea5c2a51b7d0d8bf0c698cdda1213.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/classes-11be3daae99329f7eba657e6b479cc3913a865cf.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-f021cdaa5ffab7559c49ba206204acbb671f0421.jar" />
+    </item>
+    <item
+        jar="/Users/ibrahim/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/ibrahim/Desktop/myoSport/myoSportAndroid/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12-ef22f5802d8f8e83d44e13290f9b7dabec7c6c65.jar" />
     </item>
 
 </items>
