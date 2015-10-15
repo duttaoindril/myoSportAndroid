@@ -169,8 +169,5 @@ public class MainActivity extends AppCompatActivity {
             mButtonRecord.setVisibility(View.INVISIBLE);
         }
     }
-
-
-
 }
 
